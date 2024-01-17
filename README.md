@@ -9,4 +9,4 @@ This LaTeX beamer theme was based on fibeamer theme [Witiko/fibeamer](https://gi
 
 ### How to use
 
-Compile it locally with `pdflatex` or open it on Overleaf. Edit contents of the presentation in `zutfibeamer.tex`.
+Compile it locally with `pdflatex` or open it on Overleaf. Edit contents of the presentation in `wutfibeamer.tex`.
